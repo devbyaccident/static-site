@@ -1,0 +1,34 @@
+# Your Skills.
+# Give a summary of you each skill in summary section.
+skills:
+  - name: Azure
+    icon: "images/skills/azure.png"
+    summary: "Use Azure for side-projects, video recording demos"
+  
+  - name: GCP
+    icon: "images/skills/gcp.png"
+    summary: "Google Cloud Certified Professional Cloud Architect"
+  
+  - name: AWS
+    icon: "images/skills/aws.png"
+    summary: "Manage AWS microservice infrastructure"
+  
+  - name: Terraform
+    icon: "images/skills/tf.png"
+    summary: "Profecient in using Terraform to develop infrastructure-as-code in AWS"
+  
+  - name: Docker
+    icon: "images/skills/docker.svg"
+    summary: "Develop and support multi-stage Docker build and deployment pipelines"
+  
+  - name: Windows
+    icon: "images/skills/win10.png"
+    summary: "Primary operating system, profecient in supporting and automating processes on client and server operating systems"
+  
+  - name: Linux
+    icon: "images/skills/linux.png"
+    summary: "Profecient in Linux administration, bash/shell scripting"
+  
+  - name: PowerShell
+    icon: "images/skills/pwsh.png"
+    summary: "Advanced PowerShell scripting and automation from versions 3 through 7"

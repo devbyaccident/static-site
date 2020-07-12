@@ -1,0 +1,66 @@
+# filter buttons
+buttons:
+  - name: All
+    filter: "all"
+  - name: Courses
+    filter: "courses"
+  - name: Speaking
+    filter: "speaking"
+  # - name: Open-Source
+  #   filter: "oss"
+
+# your projects
+projects:
+  - name: Implementing Windows Server 2019 Distributed Networking Services
+    logo: images/projects/pluralsight.png
+    role: Author
+    timeline: "February 2020"
+    # repo: https://github.com/kubernetes/kubernetes # if your project is public repo on github, then provide this link. it will show star count.
+    url: "https://app.pluralsight.com/library/courses/implementing-windows-server-2019-distributed-networking-services"  # if your project is not a public repo but it has a website, or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: Pluralsight course on Windows server distributed storage features
+    tags: ["courses"]
+
+  - name: Building a Modern CI/CD Pipeline with Jenkins
+    logo: images/projects/pluralsight.png
+    role: Author
+    timeline: "May 2020"
+    # repo: https://github.com/kubernetes/kubernetes # if your project is public repo on github, then provide this link. it will show star count.
+    url: "https://app.pluralsight.com/library/courses/building-modern-ci-cd-pipeline-jenkins"  # if your project is not a public repo but it has a website, or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: Pluralsight course on Jenkins CI/CD pipelines
+    tags: ["courses"]
+
+  - name: Building and Testing Applications on Google Cloud Platform
+    logo: images/projects/cloudacademy.jfif
+    role: Author
+    timeline: "October 2019"
+    # repo: https://github.com/kubernetes/kubernetes # if your project is public repo on github, then provide this link. it will show star count.
+    url: "https://cloudacademy.com/course/building-and-testing-applications-on-google-cloud-platform/"  # if your project is not a public repo but it has a website, or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: Cloudacademy course on GCP Developer features
+    tags: ["courses"]
+
+  - name: 'Spies Like Us: An Introduction to Open-Source Intelligence'
+    logo: images/projects/cerner.png
+    role: Speaker
+    timeline: "November 2017"
+    # repo: https://github.com/kubernetes/kubernetes # if your project is public repo on github, then provide this link. it will show star count.
+    #url: ""  # if your project is not a public repo but it has a website, or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: Talk at Cerner DevCon about OSINT and how to secure personal data
+    tags: ["speaking"]
+
+  - name: How to Influence People by Making friends
+    logo: images/projects/cerner.png
+    role: Speaker
+    timeline: "June 2018"
+    # repo: https://github.com/kubernetes/kubernetes # if your project is public repo on github, then provide this link. it will show star count.
+    #url: ""  # if your project is not a public repo but it has a website, or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: Talk at Cerner DevCon about Facebook, Cambridge Analytica and the value of data privacy
+    tags: ["speaking"]
+
+  - name: 'WSL While you Work: Using PowerShell in a Cross-Platform world'
+    logo: images/projects/pwsh.png
+    role: Speaker
+    timeline: "July 2020"
+    # repo: https://github.com/devbyaccident/summit-2020
+    url: "https://www.youtube.com/watch?v=fIE4kRCc5b8"
+    summary: Originally scheduled for the PowerShell and DevOps Summit, this talk goes over how to use WSL to develop cross-platform code
+    tags: ["speaking"]

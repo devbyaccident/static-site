@@ -1,0 +1,56 @@
+# your designation
+designation: DevOps Engineer
+# your company information
+company:
+  name: Center for Data Driven Discovery in Biomedicine at CHOP
+  url: "https://www.d3b.center/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a DevOps Engineer with a diverse background ranging from Audio/Visual support to Software Engineering.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "mailto:chris@devbyaccident.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/devbyaccident"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/devbyaccident"
+
+- name: Pluralsight
+  icon: "far fa-play-circle"
+  url: "https://app.pluralsight.com/profile/author/chris-blackden"
+
+- name: TechSnips
+  icon: "fab fa-youtube"
+  url: "https://techsnips.io/contributors/christopher-blackden/"
+
+- name: Adam The Automator
+  icon: "fas fa-book-reader"
+  url: "https://adamtheautomator.com/author/chris/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported color: blue, yellow, pink, green
+softSkills:
+- name: Public Speaking
+  percentage: 85
+  color: blue
+- name: Technical Writing
+  percentage: 75
+  color: yellow
+- name: Content Creation
+  percentage: 85
+  color: pink
+- name: Training
+  percentage: 69
+  color: green

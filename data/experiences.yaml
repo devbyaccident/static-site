@@ -1,0 +1,68 @@
+# Your experiences
+experiences:
+
+  - designation: DevOps Engineer
+    company:
+      name: Center for Data Driven Discovery in Biomedicine at CHOP
+      url: "https://www.d3b.center/"
+      location: Philadelphia PA
+      overview: As a DevOps Engineer at the D3b Center, my role is to manage, secure, and provision cloud infrastructure for bioinformatics research projects. 
+    start: June 2019
+    responsibilities:
+      - Manage AWS infrastructure with Terraform and Jenkins
+      - Architect and maintain CI/CD pipelines
+      - Manage +5 PB of [genomic research data](https://registry.opendata.aws/kids-first/)
+      - Support the [Kids First Data Resource Center](https://kidsfirstdrc.org/) and the [Children’s Brain Tumor Network](https://cbtn.org/)
+      
+
+  - designation: Senior Software Engineer
+    company:
+      name: Cerner
+      url: "https://www.cerner.com"
+      location: Malvern PA
+      overview: Here my role was originally as application support, but quickly evolved into automation and DevOps. I also was on the team that trained all new software enginners onboarded at the Malvern office.
+    start: July 2015
+    end: June 2019
+    responsibilities:
+      - Configured and maintained Jenkins server
+      - Managed on-prem infrastructure
+      - Managed Windows server deployments
+      - Managed and automated deployment for proprietary Java application
+      
+  - designation: IT Senior Hardware Technician
+    company:
+      name: CEB Global (Now Gartner)
+      url: "https://www.cebglobal.com/"
+      location: Arlington VA
+      overview: In this role, I started as a laptop repair and asset management technician, but was quickly given additional responsibilities and training, including system administration.
+    start: May 2013
+    end: July 2015
+    responsibilities:
+      - Supported client devices for 3,000+ end users 
+      - Managed client devices and servers using PowerShell and SCCM
+      - Maintained inventory of 5,000+ IT hardware assets
+      - Responsible for purchasing and cost control of IT hardware
+
+  - designation: Computer Technician
+    company:
+      name: George Mason University
+      url: "https://www2.gmu.edu/"
+      location: Fairfax VA
+      overview: I was a computer technician for the Electrical and Computer Engineering Department.
+    start: January 2013
+    end: May 2013
+    responsibilities:
+      - Helped students and professors with IT/AV issues
+      - Helped troubleshoot issues with Arduino and MSP 430 microcontrollers
+
+  - designation: 3rd Key Manager
+    company:
+      name: GameStop
+      url: "https://www.gamestop.com/"
+      location: Multiple Locations
+      overview: Keyholder at a retail chain
+    start: April 2010
+    end: January 2013
+    responsibilities:
+      - Customer Service
+      - Sales
